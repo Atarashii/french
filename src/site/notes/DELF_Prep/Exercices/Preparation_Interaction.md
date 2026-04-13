@@ -4,7 +4,7 @@
 
 # 🗣️ Préparation Oral : Exercice en Interaction (A2)
 
-C'est un jeu de rôle de 3-4 minutes. Vous devez résoudre une situation de la vie quotidienne.
+**Déroulement :** C'est un jeu de rôle de 3-4 minutes. Comme pour le monologue, vous tirez au sort **deux sujets** et vous choisissez celui que vous préférez. Vous avez **10 minutes de préparation** (communes avec le monologue).
 
 ## 📝 Situations Types
 1. **Agence immobilière** : Vous cherchez un appartement.

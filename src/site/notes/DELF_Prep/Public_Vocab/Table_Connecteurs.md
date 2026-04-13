@@ -15,6 +15,7 @@
 | donc [dɔ̃k] | so / therefore | Pour donner un résultat. |
 | alors [alɔʁ] | so / then | Pour donner un résultat. |
 | mais [mɛ] | but | Pour opposer deux idées. |
+| pourtant [puʁtɑ̃] | however | Pour opposer deux idées. |
 | pendant [pɑ̃dɑ̃] | during | Pour la durée. |
 | depuis [dəpɥi] | since / for | Pour une action qui continue. |
 | quand [kɑ̃] | when | Pour le moment. |

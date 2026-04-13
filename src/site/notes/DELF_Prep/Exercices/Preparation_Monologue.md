@@ -4,7 +4,7 @@
 
 # 🗣️ Préparation Oral : Monologue Suivi (A2)
 
-Dans cette épreuve, vous tirez au sort 2 thèmes et vous en choisissez un. Vous avez 10 minutes pour préparer.
+**Déroulement :** À votre arrivée, vous tirez au sort **deux sujets** et vous en choisissez un seul. Vous disposez ensuite de **10 minutes de préparation** pour préparer cette partie et l'interaction.
 
 ## 📝 Liste des thèmes fréquents
 1. **Le logement** : Décrivez votre maison et votre quartier.
