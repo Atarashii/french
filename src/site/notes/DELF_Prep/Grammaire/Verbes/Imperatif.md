@@ -54,3 +54,8 @@ Simply wrap the imperative verb with **Ne... pas**.
 Use the **Vous** form to sound polite, even in exams.
 - "Asseyez-vous, s'il vous plaît" (Please sit down).
 - "Attendez un instant" (Wait a moment).
+
+---
+## 🔗 Ressources Lingolia
+- [L'impératif - Lingolia](https://francais.lingolia.com/fr/grammaire/les-verbes/imperatif)
+

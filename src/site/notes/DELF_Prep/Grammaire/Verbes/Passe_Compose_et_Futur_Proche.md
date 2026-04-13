@@ -40,3 +40,9 @@ La plupart des verbes utilisent **AVOIR** comme auxiliaire. Seuls quelques verbe
 Utilisé pour des actions qui vont arriver **bientôt** ou qui sont **certaines**.
 - **Formule :** [Aller au Présent] + [Verbe à l'Infinitif]
 - *Exemple :* "Je vais manger" (I am going to eat).
+
+---
+## 🔗 Ressources Lingolia
+- [Le passé composé - Lingolia](https://francais.lingolia.com/fr/grammaire/les-temps/le-passe-compose)
+- [Le futur proche - Lingolia](https://francais.lingolia.com/fr/grammaire/les-temps/le-futur-proche)
+

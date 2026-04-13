@@ -51,3 +51,8 @@ If you can translate it as "**some**" in English, you probably need a partitive 
 - **Le/La** = The (Specific/General preference like "J'aime le café").
 - **Un/Une** = One/A (Countable).
 - **Du/De la** = Some (Uncountable).
+
+---
+## 🔗 Ressources Lingolia
+- [L'article partitif - Lingolia](https://francais.lingolia.com/fr/grammaire/articles#a-quest-ce-que-larticle-partitif)
+

@@ -42,3 +42,8 @@ Four verbs don't follow any rules. You must memorize these like a song!
 ## 📝 Practice Exercise (For your Tutor)
 Try saying: *"Je parle français, mais je ne viens pas de Paris."*
 (I speak French, but I don't come from Paris).
+
+---
+## 🔗 Ressources Lingolia
+- [Le présent - Lingolia](https://francais.lingolia.com/fr/grammaire/les-temps/le-present)
+

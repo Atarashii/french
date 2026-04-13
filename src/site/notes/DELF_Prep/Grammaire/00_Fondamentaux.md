@@ -43,3 +43,8 @@ If you find grammar theory confusing, think of it like a **LEGO set**. You have 
 
 ## 📝 Exam Tip: "The Trimming Method"
 When writing an exam, look for the **Subject** first. If the subject is "Nous," the verb *almost always* ends in **-ons**. If the answer choices don't end in -ons, cross them out immediately!
+
+---
+## 🔗 Ressources Lingolia
+- [Grammaire française - Lingolia](https://francais.lingolia.com/fr/grammaire)
+

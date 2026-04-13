@@ -42,3 +42,11 @@ Objectif : Atteindre un score supérieur à 75/100 pour le DELF A2 le 19 mai 202
 ## 💡 Rappel des Notes Éliminatoires
 - **Ne jamais avoir moins de 5/25** dans une épreuve.
 - **Viser 50/100 au total.**
+
+---
+## 🔗 Ressources de Révision Lingolia
+- [Grammaire complète](https://francais.lingolia.com/fr/grammaire)
+- [Les Temps de l'indicatif](https://francais.lingolia.com/fr/grammaire/les-temps)
+- [Les Verbes](https://francais.lingolia.com/fr/grammaire/les-verbes)
+- [Noms et Articles](https://francais.lingolia.com/fr/grammaire/articles)
+

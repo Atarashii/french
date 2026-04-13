@@ -41,3 +41,9 @@ French does not like the sound of "à le" or "de le." They "fuse" into a new wor
 ## 📝 Practice Sentence
 - *English:* "I am going to the (M) restaurant with some (Pl) friends."
 - *French:* "Je vais **au** restaurant avec **des** amis."
+
+---
+## 🔗 Ressources Lingolia
+- [Les articles - Lingolia](https://francais.lingolia.com/fr/grammaire/articles)
+- [Les prépositions - Lingolia](https://francais.lingolia.com/fr/grammaire/prepositions)
+
