@@ -17,11 +17,11 @@ Ce document suit votre progression par rapport aux "Actes de parole" officiels t
 - [x] **Payer l'addition** : (Semaine 2).
 
 ### 🟡 En Cours / À Pratiquer
-- [ ] **Donner des directions** : Itinéraire pour aller au restaurant (Semaine 2). [priority:: medium]
-- [ ] **Décrire un logement** : La maison de ma mère, le poêle à bois (Semaine 1/2).
-- [ ] **Exprimer des sentiments/besoins** : Avoir faim, avoir chaud, être heureux.
-- [ ] **Faire des courses** : Acheter des ingrédients pour les pizzas.
-- [ ] **Parler de la météo** : Quel temps faisait-il pendant la fête ?
+- [x] **Donner des directions** : Itinéraire pour aller au restaurant (Semaine 2). [priority:: medium] ✅ 2026-04-13
+- [x] **Décrire un logement** : La maison de ma mère, le poêle à bois (Semaine 1/2). ✅ 2026-04-13
+- [x] **Exprimer des sentiments/besoins** : Avoir faim, avoir chaud, être heureux. ✅ 2026-04-13
+- [x] **Faire des courses** : Acheter des ingrédients pour les pizzas. ✅ 2026-04-13
+- [x] **Parler de la météo** : Quel temps faisait-il pendant la fête ? ✅ 2026-04-13
 
 ### 🔴 Pas Encore Abordé
 - [ ] **Prendre un rendez-vous** : Chez le médecin ou à la banque.
