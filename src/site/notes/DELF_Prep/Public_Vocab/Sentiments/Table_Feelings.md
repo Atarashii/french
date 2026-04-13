@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/sentiments/table-feelings/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/sentiments/table-feelings/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🎭 Vocabulaire : Sentiments et Sensations

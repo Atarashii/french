@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/angouleme-analysis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/angouleme-analysis/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📊 Analyse de Présentation : Le Festival d'Angoulême

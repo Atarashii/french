@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/examens/delf-a2-mai-2026/infos-examen/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/examens/delf-a2-mai-2026/infos-examen/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📝 Informations Officielles : DELF A2 Mai 2026

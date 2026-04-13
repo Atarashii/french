@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-semaine-2-story/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-semaine-2-story/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📽️ Vocabulaire : Présentation Semaine 2 (Ma Mère)

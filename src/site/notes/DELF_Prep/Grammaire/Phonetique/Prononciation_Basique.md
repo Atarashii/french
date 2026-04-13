@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/phonetique/prononciation-basique/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/phonetique/prononciation-basique/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🗣️ Prononciation et Phonétique (Basics)

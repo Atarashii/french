@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/ville/table-city/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/ville/table-city/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🏙️ Vocabulaire : La Ville et les Transports

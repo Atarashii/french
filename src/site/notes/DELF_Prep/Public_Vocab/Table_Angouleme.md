@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-angouleme/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-angouleme/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📽️ Vocabulaire : Festival d'Angoulême & BD

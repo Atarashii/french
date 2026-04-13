@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/verbes/table-verbs/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/verbes/table-verbs/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🎯 Vocabulaire : Les Verbes Essentiels

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/temps/table-time/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/temps/table-time/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📅 Vocabulaire : Le Temps (Jours, Mois, Moments)

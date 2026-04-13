@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/nombres/table-numbers/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/nombres/table-numbers/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🔢 Vocabulaire : Les Nombres

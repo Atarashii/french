@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/passe-compose-et-futur-proche/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/passe-compose-et-futur-proche/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🕒 Conjugaison : Le Passé Composé
@@ -8,41 +8,42 @@ Le Passé Composé est utilisé pour des actions **terminées** dans le passé.
 - **Formule :** [Sujet] + [Auxiliaire (Avoir ou Être)] + [Participe Passé]
 
 ## 🏠 La Maison d'Être (The House of Être)
-La plupart des verbes utilisent **AVOIR** comme auxiliaire. Seuls quelques verbes de mouvement et les verbes pronominaux utilisent **ÊTRE**.
+La plupart des verbes utilisent **AVOIR** comme auxiliaire. Seuls quelques verbes de mouvement and reflexive verbs use **ÊTRE**.
 
-| Verbes d'Être | Meaning | Participe Passé |
-| :--- | :--- | :--- |
-| **Aller** | to go | allé |
-| **Venir** | to come | venu |
-| **Entrer** | to enter | entré |
-| **Sortir** | to exit | sorti |
-| **Naître** | to be born | né |
-| **Mourir** | to die | mort |
-| **Rester** | to stay | resté |
-| **Partir** | to leave | parti |
+| Verbe | Meaning | Participe Passé | Prononciation |
+| :--- | :--- | :--- | :--- |
+| **Aller** | to go | allé | [ale] |
+| **Venir** | to come | venu | [vəny] |
+| **Entrer** | to enter | entré | [ɑ̃tʁe] |
+| **Sortir** | to exit | sorti | [sɔʁti] |
+| **Naître** | to be born | né | [ne] |
+| **Mourir** | to die | mort | [mɔʁ] |
+| **Rester** | to stay | resté | [ʁɛste] |
+| **Partir** | to leave | parti | [paʁti] |
 
 ---
 
 ## 🛠️ Former le Participe Passé (Verbes Réguliers)
-- **-ER** ➔ **-é** (*Manger* ➔ *mangé*)
-- **-IR** ➔ **-i** (*Finir* ➔ *fini*)
-- **-RE** ➔ **-u** (*Vendre* ➔ *vendu*)
+- **-ER** ➔ **-é** (*Manger* ➔ *mangé* [mɑ̃ʒe])
+- **-IR** ➔ **-i** (*Finir* ➔ *fini* [fini])
+- **-RE** ➔ **-u** (*Vendre* ➔ *vendu* [vɑ̃dy])
 
-## ⚠️ Les Verbes Irréguliers
-- **Avoir** ➔ **eu**
-- **Être** ➔ **été**
-- **Aller** ➔ **allé**
-- **Venir** ➔ **venu**
+## ⚠️ Les Verbes Irréguliers (Common in A2)
+- **Avoir** ➔ **eu** [y]
+- **Être** ➔ **été** [ete]
+- **Faire** ➔ **fait** [fɛ]
+- **Prendre** ➔ **pris** [pʁi]
+- **Écrire** ➔ **écrit** [ekʁi]
+- **Dire** ➔ **dit** [di]
 
 ---
 
 ## 🔮 Le Futur Proche (The Near Future)
 Utilisé pour des actions qui vont arriver **bientôt** ou qui sont **certaines**.
 - **Formule :** [Aller au Présent] + [Verbe à l'Infinitif]
-- *Exemple :* "Je vais manger" (I am going to eat).
+- *Exemple :* \"Je vais manger\" [ʒə vɛ mɑ̃ʒe] (I am going to eat).
 
 ---
 ## 🔗 Ressources Lingolia
 - [Le passé composé - Lingolia](https://francais.lingolia.com/fr/grammaire/les-temps/le-passe-compose)
 - [Le futur proche - Lingolia](https://francais.lingolia.com/fr/grammaire/les-temps/le-futur-proche)
-

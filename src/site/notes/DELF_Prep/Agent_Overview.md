@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/agent-overview/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/agent-overview/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🇫🇷 Le Précepteur : Agent Manifesto & Capabilities

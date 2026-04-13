@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/journal-de-bord/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/journal-de-bord/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📔 Journal de Bord : DELF Prep
@@ -31,7 +31,11 @@
 - [x] Créer les documents pour le Festival d'Angoulême (Présentation & Analyse) ✅ 2026-04-13
 - [x] Organiser les dossiers pour l'examen DELF A2 (19 mai 2026) ✅ 2026-04-13
 - [x] Créer le plan d'étude sur 5 semaines ✅ 2026-04-13
+- [x] Créer les sections Adjectifs et Adverbes (Lingolia) ✅ 2026-04-13
+- [x] Ajouter les interactions Adverbes/Adjectifs (ex: "très beau") ✅ 2026-04-13
 - [ ] Pratiquer les flashcards "Grammaire_Imperatif_Partitif" [due:: 2026-04-14]
+
+
 - [ ] Finir l'analyse de la présentation (Week 2) pour le tuteur
 - [ ] Commencer la Semaine 1 du plan d'étude : Passé Composé & Imparfait [priority:: high]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/week-2-analysis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/week-2-analysis/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 📊 Analyse Détaillée : Présentation Semaine 2

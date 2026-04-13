@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/examens/delf-a2-mai-2026/plan-etude/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/examens/delf-a2-mai-2026/plan-etude/","noteIcon":"","dg-note-properties":{}}
 ---
 
 
@@ -27,10 +27,12 @@ Objectif : Atteindre un score supérieur à 75/100 pour le DELF A2 le 19 mai 202
 - [ ] **Flashcards :** Connecteurs logiques (et, mais, parce que, alors).
 
 ## 🗣️ Semaine 4 (04/05 - 10/05) : Production Orale (Speaking)
-- [ ] Pratiquer le **Monologue Suivi** (Parler d'un sujet pendant 3 min).
-- [ ] Pratiquer l'**Entretien Dirigé** (Questions sur soi).
-- [ ] Pratiquer l'**Exercice en Interaction** (Jeu de rôle : restaurant, achats).
+- [ ] Pratiquer le **Monologue Suivi** (Ex: Vacances, Logement, Film préféré).
+- [ ] Pratiquer l'**Entretien Dirigé** (Questions sur soi : études, motivations).
+- [ ] Pratiquer l'**Exercice en Interaction** (Jeu de rôle : Médecin, Agence immobilière).
+- [ ] Travailler les connecteurs logiques (*d'abord, ensuite, enfin, car, donc*).
 - [ ] **Flashcards :** Sentiments et sensations (Avoir faim, etc.).
+
 
 ## 🎓 Semaine 5 (11/05 - 18/05) : Examens Blancs & Révision Finale
 - [ ] Faire un **Examen Blanc complet** (Temps réel). [priority:: high]

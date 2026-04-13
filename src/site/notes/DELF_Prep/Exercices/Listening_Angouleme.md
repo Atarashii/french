@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/listening-angouleme/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/listening-angouleme/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # 🎧 Préparation Écoute : Le Festival d'Angoulême
