@@ -30,12 +30,14 @@ Most adverbs end in **-ment** (equivalent to English *-ly*).
 ### 🧱 Simple Tenses (Present, Imparfait)
 The adverb goes **AFTER** the conjugated verb.
 - *Example:* Je parle **lentement** [ʒə paʁl lɑ̃tmɑ̃].
+- *Example:* Je vais **bien** [ʒə vɛ bjɛ̃].
 
 ### 🧱 Compound Tenses (Passé Composé)
 - **Long adverbs** go AFTER the past participle (*Je suis arrivé heureusement*).
-- **Short/Common adverbs** go **BETWEEN** the auxiliary and the participle.
+- **Short/Common adverbs** go **BETWEEN** the auxiliary and the participle (The "Sandwich").
   - *Keywords:* **bien, mal, déjà, souvent, toujours, trop, beaucoup**.
   - *Example:* J'ai **bien** mangé [ʒe bjɛ̃ mɑ̃ʒe].
+
 
 ---
 
