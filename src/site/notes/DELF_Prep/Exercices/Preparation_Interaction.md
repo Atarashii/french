@@ -1,17 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/preparation-interaction/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/preparation-interaction/","noteIcon":"","updated":"2026-04-20T17:13:05.937+02:00","dg-note-properties":{}}
 ---
 
 # 🗣️ Préparation Oral : Exercice en Interaction (A2)
 
-**Déroulement :** C'est un jeu de rôle de 3-4 minutes. Comme pour le monologue, vous tirez au sort **deux sujets** et vous choisissez celui que vous préférez. Vous avez **10 minutes de préparation** (communes avec le monologue).
+**Déroulement :** À votre arrivée, vous tirez au sort **deux sujets** et vous choisissez celui que vous préférez. Vous avez **10 minutes de préparation** (communes avec la partie 2). Le dialogue dure de **3 à 4 minutes**.
 
-## 📝 Situations Types
-1. **Agence immobilière** : Vous cherchez un appartement.
-2. **Magasin** : Vous achetez un ordinateur ou des vêtements.
-3. **Médecin** : Vous expliquez que vous êtes malade.
-4. **Gare** : Vous demandez des horaires ou des prix.
-5. **Travail** : Vous avez un entretien ou un problème technique.
+## 📝 Situations Types (Sujets officiels)
+1. **Agence immobilière** : Expliquer le type de logement que vous recherchez.
+2. **Magasin (Ordinateur/Vêtements)** : Demander des renseignements sur le prix, la taille, la qualité.
+3. **Animal domestique** : Poser des questions à un ami sur ses chiots.
+4. **Au restaurant** : Demander la carte et choisir votre repas.
+5. **Gare routière** : Se renseigner sur les tarifs et horaires des bus.
+6. **Accident** : Raconter un accident de voiture à un agent de police.
+7. **Entretien d'embauche** : Se présenter et parler de ses motivations.
+8. **Panne d'ordinateur** : Demander de l'aide à un collègue spécialiste.
+9. **Garderie/École** : Demander des renseignements pour vos enfants.
+10. **Bibliothèque** : Demander comment s'inscrire et le choix des livres.
 
 ---
 
@@ -36,6 +41,6 @@
 
 ---
 ## 💡 Astuces pour l'examen
-- **Utilisez le "Vous"** : Le registre est formel.
-- **Soyez actif** : Proposez des idées.
+- **Utilisez le "Vous"** : Le registre est formel (sauf indication contraire).
+- **Soyez actif** : Proposez des idées et des solutions.
 - **Reformulez** : Si vous ne comprenez pas, dites : *"Pardon, vous pouvez répéter ?"*

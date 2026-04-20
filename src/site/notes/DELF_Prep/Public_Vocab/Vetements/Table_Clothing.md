@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/vetements/table-clothing/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/vetements/table-clothing/","noteIcon":"","updated":"2026-04-13T14:54:40.778+02:00","dg-note-properties":{}}
 ---
 
 # 👕 Vocabulaire : Les Vêtements

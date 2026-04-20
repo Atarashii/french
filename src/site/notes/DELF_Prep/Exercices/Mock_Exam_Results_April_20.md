@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/mock-exam-results-april-20/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/mock-exam-results-april-20/","noteIcon":"","updated":"2026-04-20T15:27:29.172+02:00","dg-note-properties":{}}
 ---
 
 # 🎓 Résultats : Examen Blanc - 20 Avril 2026

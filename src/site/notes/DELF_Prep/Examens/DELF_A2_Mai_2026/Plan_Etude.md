@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/examens/delf-a2-mai-2026/plan-etude/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/examens/delf-a2-mai-2026/plan-etude/","noteIcon":"","updated":"2026-04-20T17:12:07.971+02:00","dg-note-properties":{}}
 ---
 
 
@@ -30,8 +30,10 @@ Objectif : Atteindre un score supérieur à 75/100 pour le DELF A2 le 19 mai 202
 - [ ] Pratiquer le **Monologue Suivi** (Ex: Vacances, Logement, Film préféré).
 - [ ] Pratiquer l'**Entretien Dirigé** (Questions sur soi : études, motivations).
 - [ ] Pratiquer l'**Exercice en Interaction** (Jeu de rôle : Médecin, Agence immobilière).
+- [ ] **Simuler la préparation (10 min)** : Apprendre à noter des mots-clés pour 2 sujets.
 - [ ] Travailler les connecteurs logiques (*d'abord, ensuite, enfin, car, donc*).
-- [ ] **Flashcards :** Sentiments et sensations (Avoir faim, etc.).
+- [ ] **Flashcards :** Questions d'examen et phrases de secours.
+
 
 
 ## 🎓 Semaine 5 (11/05 - 18/05) : Examens Blancs & Révision Finale

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/week-1-analysis-completed/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/week-1-analysis-completed/","noteIcon":"","updated":"2026-04-13T17:47:09.742+02:00","dg-note-properties":{}}
 ---
 
 # 📊 Analyse de Présentation : Semaine 1

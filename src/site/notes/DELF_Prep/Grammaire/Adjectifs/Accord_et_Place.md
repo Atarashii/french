@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/adjectifs/accord-et-place/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/adjectifs/accord-et-place/","noteIcon":"","updated":"2026-04-13T17:21:44.052+02:00","dg-note-properties":{}}
 ---
 
 # 🎨 Les Adjectifs (Adjectives)

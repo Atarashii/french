@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/echauffement-cours/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/echauffement-cours/","noteIcon":"","updated":"2026-04-20T15:36:39.539+02:00","dg-note-properties":{}}
 ---
 
 # 🚀 Échauffement : Résultats et Corrections (20 Avril)

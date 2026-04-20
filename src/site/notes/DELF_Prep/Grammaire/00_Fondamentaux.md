@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/00-fondamentaux/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/00-fondamentaux/","noteIcon":"","updated":"2026-04-13T17:43:32.328+02:00","dg-note-properties":{}}
 ---
 
 # 🗝️ Les Fondamentaux : Grammar for Beginners

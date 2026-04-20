@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/nourriture/table-food/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/nourriture/table-food/","noteIcon":"","updated":"2026-04-13T14:54:27.693+02:00","dg-note-properties":{}}
 ---
 
 # 🍎 Vocabulaire : Nourriture et Boissons

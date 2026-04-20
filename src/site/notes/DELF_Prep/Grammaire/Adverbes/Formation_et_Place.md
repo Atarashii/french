@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/adverbes/formation-et-place/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/adverbes/formation-et-place/","noteIcon":"","updated":"2026-04-20T15:40:35.889+02:00","dg-note-properties":{}}
 ---
 
 # ⚡ Les Adverbes (Adverbs)

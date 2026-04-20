@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/noms-et-articles/articles-et-prepositions/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/noms-et-articles/articles-et-prepositions/","noteIcon":"","updated":"2026-04-13T17:43:32.329+02:00","dg-note-properties":{}}
 ---
 
 # 📚 Les Articles & Prépositions (English Guide)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/conjugaison-present/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/conjugaison-present/","noteIcon":"","updated":"2026-04-13T17:43:32.580+02:00","dg-note-properties":{}}
 ---
 
 # ⚙️ Conjugaison : Le Présent (Verb Endings)

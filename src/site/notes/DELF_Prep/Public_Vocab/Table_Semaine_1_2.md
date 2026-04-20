@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-semaine-1-2/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-semaine-1-2/","noteIcon":"","updated":"2026-04-13T14:53:59.806+02:00","dg-note-properties":{}}
 ---
 
 # 🗂️ Vocabulaire : Semaine 1 & 2

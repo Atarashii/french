@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/maison/table-house/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/maison/table-house/","noteIcon":"","updated":"2026-04-13T14:54:21.701+02:00","dg-note-properties":{}}
 ---
 
 # 🏠 Vocabulaire : La Maison

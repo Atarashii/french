@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/famille/table-family/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/famille/table-family/","noteIcon":"","updated":"2026-04-13T14:54:19.701+02:00","dg-note-properties":{}}
 ---
 
 # 👨‍👩‍👧‍👦 Vocabulaire : La Famille

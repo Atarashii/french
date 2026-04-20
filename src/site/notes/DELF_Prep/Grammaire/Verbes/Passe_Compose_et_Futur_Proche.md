@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/passe-compose-et-futur-proche/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/passe-compose-et-futur-proche/","noteIcon":"","updated":"2026-04-13T17:43:32.952+02:00","dg-note-properties":{}}
 ---
 
 # 🕒 Conjugaison : Le Passé Composé

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-grammaire-imperatif-partitif/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-grammaire-imperatif-partitif/","noteIcon":"","updated":"2026-04-13T14:53:56.743+02:00","dg-note-properties":{}}
 ---
 
 # 📝 Vocabulaire : L'Impératif et le Partitif

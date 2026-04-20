@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-connecteurs/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-connecteurs/","noteIcon":"","updated":"2026-04-13T17:48:17.113+02:00","dg-note-properties":{}}
 ---
 
 # ⚡ Vocabulaire : Les Connecteurs Logiques

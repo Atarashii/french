@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-adjectifs-adverbes/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/public-vocab/table-adjectifs-adverbes/","noteIcon":"","updated":"2026-04-13T17:13:19.462+02:00","dg-note-properties":{}}
 ---
 
 # 🎨 Vocabulaire : Adjectifs et Adverbes

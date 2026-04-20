@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/imperatif/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/grammaire/verbes/imperatif/","noteIcon":"","updated":"2026-04-13T17:43:32.824+02:00","dg-note-properties":{}}
 ---
 
 # 🗣️ L'Impératif (The Imperative)

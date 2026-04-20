@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/exercices/mock-exam-april-20/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/exercices/mock-exam-april-20/","noteIcon":"","updated":"2026-04-20T15:15:57.193+02:00","dg-note-properties":{}}
 ---
 
 # 🎓 Examen Blanc (Mock Exam) - 20 Avril 2026

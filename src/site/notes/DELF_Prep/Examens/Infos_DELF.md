@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/delf-prep/examens/infos-delf/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/delf-prep/examens/infos-delf/","noteIcon":"","updated":"2026-04-13T17:47:54.907+02:00","dg-note-properties":{}}
 ---
 
 # 📋 Informations DELF A1/A2
